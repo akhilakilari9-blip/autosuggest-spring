@@ -8,7 +8,7 @@ h1 {
 
 .navbar{
     border-style: solid;
-    border-width: 5px;
+    border-width: 1px;
     border-color: brown;
     padding: 20px;
     text-align: center;
@@ -20,7 +20,7 @@ h1 {
     color: blueviolet;
     font-size:20px
 }
-.naavbar a:hover{
+.navbar a:hover{
     color:darkblue;
     background-color:aqua;
 
