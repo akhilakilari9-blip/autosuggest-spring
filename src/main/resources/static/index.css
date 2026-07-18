@@ -1,15 +1,15 @@
 body{
-    margin: 0px;
+    margin: 2px;
 }
 
 h1 {
-    color: red;
+    color: blue;
 }
 
 .navbar{
     border-style: solid;
-    border-width: 1px;
-    border-color: gray;
+    border-width: 5px;
+    border-color: brown;
     padding: 20px;
     text-align: center;
 }
@@ -17,5 +17,11 @@ h1 {
 .navbar a{
     padding: 20px;
     text-decoration: none;
-    color: black;
+    color: blueviolet;
+    font-size:20px
+}
+.naavbar a:hover{
+    color:darkblue;
+    background-color:aqua;
+
 }
